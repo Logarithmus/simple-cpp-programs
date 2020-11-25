@@ -1,7 +1,7 @@
 #ifndef QUADRATIC_SOLVER_IO_H
 #define QUADRATIC_SOLVER_IO_H
 
-#include "struct.h"
+#include "struct.hpp"
 
 Coeff read_coeff();
 void print_solution(const Coeff &coeff, const Solution &sol,

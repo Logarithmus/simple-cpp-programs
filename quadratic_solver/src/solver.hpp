@@ -1,7 +1,7 @@
 #ifndef QUADRATIC_SOLVER_SOLVER_H
 #define QUADRATIC_SOLVER_SOLVER_H
 
-#include "struct.h"
+#include "struct.hpp"
 
 unsigned char resolve_equation_type(const Coeff &coeff);
 double discriminant(const Coeff &coeff);

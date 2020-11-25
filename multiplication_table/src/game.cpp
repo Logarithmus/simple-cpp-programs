@@ -1,6 +1,5 @@
-#include "game.h"
-
-#include "util.h"
+#include "game.hpp"
+#include "util.hpp"
 #include <cstdio>
 
 bool ask_mult_result(unsigned a, unsigned b, unsigned ask_times) {
