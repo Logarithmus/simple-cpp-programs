@@ -1,2 +1,2 @@
-# EPAM C++ tasks (winter 2018-2019)
-Practical tasks from EPAM C++ beginner's course
+# Simple C++ programs
+Simple programs written to practice C++
