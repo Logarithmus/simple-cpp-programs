@@ -1,5 +1,5 @@
-#include "io.h"
-#include "solver.h"
+#include "io.hpp"
+#include "solver.hpp"
 #include <cmath>
 #include <cstdio>
 
